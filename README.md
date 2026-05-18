@@ -1,2 +1,4 @@
 # NeverEnough
-This is a project with a... well, I don´t have any idea, I forgot, lol
+Welcome to NeverEnough, this project is for beginers that want to start with Python
+Are you searching a way to make apps, games or learn how AI works?
+Well, let´s start!
