@@ -1,3 +1,9 @@
 To understand Python, we must first understand its syntax. 
 
-Python is an interpreted language, and it is built using indentation, variables, loops, conditionals, among other things.
+Python is an interpreted programming language. Its syntax uses indentation to define blocks of code, and some of its fundamental concepts include variables, loops, and conditionals.
+
+Example:
+
+v = 1
+if v:
+    print("Hello")
