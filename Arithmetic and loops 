@@ -1,0 +1,2 @@
+Have you ever wanted a program to not stop, but to run until a certain condition is met?
+In Python we can do this with while and for.
