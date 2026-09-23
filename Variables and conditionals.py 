@@ -10,4 +10,4 @@ if n == 2:
 
 # If: if the condition is True, execute the lines inside the if statement.
 # Elif: If the first 'if' condition is not True, evaluate this other option.
-# Else: If this `if` (and other `elif`s) evaluates to true, execute this.
+# Else: If this `if` (and other `elif`s) evaluates to false, execute this.
