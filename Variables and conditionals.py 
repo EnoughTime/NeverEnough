@@ -1,0 +1,8 @@
+# In Python, variables store a value; conditionals decide whether that value is correct or not. This is called Boolean logic, and it is handled by true or false.
+
+Example:
+v = 1
+n = 2
+if n == 2:
+    print(n + v)
+# Here the two values will be added if the condition is true, so the output will be 3.
