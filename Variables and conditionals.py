@@ -8,6 +8,6 @@ if n == 2:
 # Here the two values will be added if the condition is true, so the output will be 3.
 # We have three conditionals that will help us: if, elif, and else.
 
-# If: if the condition is True, execute the lines inside the if statement.
-# Elif: If the first 'if' condition is not True, evaluate this other option.
-# Else: If this `if` (and other `elif`s) evaluates to false, execute this.
+# if: if the condition is True, execute the lines inside the if statement.
+# elif: If the first 'if' condition is not True, evaluate this other option.
+# else: If this `if` (and other `elif`s) evaluates to false, execute this.
