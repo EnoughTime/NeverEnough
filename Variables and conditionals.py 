@@ -6,4 +6,6 @@ n = 2
 if n == 2:
     print(n + v)
 # Here the two values will be added if the condition is true, so the output will be 3.
-# We have three conditionals that will help us: if, elif, and else. 
+# We have three conditionals that will help us: if, elif, and else.
+
+# If: if the condition is True, execute the lines inside the if statement.
