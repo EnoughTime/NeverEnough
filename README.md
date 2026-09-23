@@ -1,7 +1,5 @@
 # NeverEnough
 
-Welcome to NeverEnough, this project is for begginers that want to start with Python
-
-Are you searching a way to make apps, games or learn how AI works?
-
-Well, let´s start!
+Welcome to NeverEnough! This project is for beginners who want to get started with Python.
+Are you looking for a way to build apps and games, or learn how AI works?
+Well, let's get started!
