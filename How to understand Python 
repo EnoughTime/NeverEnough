@@ -5,5 +5,5 @@ Python is an interpreted programming language. Its syntax uses indentation to de
 Example:
 
 v = 1
-if v:
+if v == 1:
     print("Hello")
