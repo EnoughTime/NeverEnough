@@ -1,4 +1,4 @@
-# In Python, variables store a value; conditionals decide whether that value is correct or not. This is called Boolean logic, and it is handled by true or false.
+# In Python, variables store a value; conditionals decide whether that value is correct or not. This is called Boolean logic, and it is handled by True or False.
 
 Example:
 v = 1
