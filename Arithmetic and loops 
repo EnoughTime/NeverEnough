@@ -1,2 +1,9 @@
 Have you ever wanted a program to not stop, but to run until a certain condition is met?
 In Python we can do this with while and for.
+
+Example:
+
+v = 1
+while v == 1:
+    print("This is a while")
+What's happening here? This is a while loop, and it executes thanks to a variable. As long as the variable is true, this while loop will continue along with its entire corresponding block. 
