@@ -7,3 +7,29 @@ v = 1
 while v == 1:
     print("This is a while")
 What's happening here? This is a while loop, and it executes thanks to a variable. As long as the variable is true, this while loop will continue along with its entire corresponding block. 
+
+The for loop does not work the same way as a while loop, as it has its own rules.
+
+Example:
+
+for i in range(0, 5):
+    print(i)
+
+The `for` loop has `range()`, but this is not mandatory; `range()` simply tells the loop where to start, where to stop, and how to count.
+
+We have operators for basic arithmetic in Python; this will help us create much more advanced programs.
+
++ Add. Example: x + y
+
+- subtract. Example: x - y
+
+* multiply. Example: x * y
+
+/ divide. Example: x / y
+
+** Exponentiation. Example: x ** y
+
+// Floor division. Example: x // y
+
+
+Now that you know the basics, install an interpreter if you don't have one. Write code, experiment, break things, and fix your own errors.
